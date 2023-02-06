@@ -1,0 +1,7 @@
+***TEMARIO ***
+1. Algoritmos de ordenamiento
+2. Algoritmos de búsqueda
+3. Algoritmos de grafos
+4. Árboles
+5. Archivos
+6. Introducción a los algoritmos paralelos

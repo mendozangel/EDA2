@@ -1,0 +1,5 @@
+***TEMARIO ***
+1. Ecuaciones diferenciales de primer orden lineales y no lineales
+2. Ecuaciones diferenciales lineales de orden superior
+3. Transformada de Laplace y sistemas de ecuaciones diferenciales lineales
+4. Introducción a las ecuaciones diferenciales en derivadas parciales

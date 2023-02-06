@@ -1,0 +1,9 @@
+***TEMARIO ***
+1. El paradigma orientado a objetos
+2. UML
+3. Tipos, expresiones y control de flujo
+4. Herencia y polimorfismo
+5. Manejo de excepciones y errores
+6. Flujo de entrada y salida
+7. Programación de hilos
+8. Introducción a patrones

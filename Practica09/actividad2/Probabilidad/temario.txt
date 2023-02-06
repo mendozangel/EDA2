@@ -1,0 +1,6 @@
+***TEMARIO ***
+1. Teoría de la probabilidad
+2. Variables aleatorias
+3. Variables aleatorias conjuntas.
+4. Modelos probabilisticos de fenómenos aleatorios discretos
+5. Modelos probabilisticos de fenómenos aleatorios continuos
